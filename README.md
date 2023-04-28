@@ -2,7 +2,7 @@
 a word puzzle tool or arrange random words into correct sentences, there are several levels in this game, namely: noob, medium, hight, legend, glory
 This tool is CLI (Command Line Interface) based.
 
-<img src=" "/>
+<img src="https://github.com/HunxByts/PuzzleWord/blob/main/asset/PUZW.png"/>
 
 ### Instalation on Linux (.deb)
 ```
@@ -27,7 +27,7 @@ python3 puzword.py
 
 ### Display when answering questions
 
-<img src=" "/>
+<img src="https://github.com/HunxByts/PuzzleWord/blob/main/asset/PUZW2.png"/>
 
 <details>
 <summary>:zap: Author :</summary>
