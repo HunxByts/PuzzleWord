@@ -1,6 +1,11 @@
 ## PuzzleWord
-a word puzzle tool or arrange random words into correct sentences, there are several levels in this game, namely: noob, medium, hight, legend, glory
+a word puzzle game or arrange random words into correct sentences, there are several levels in this game, namely: noob, medium, hight, legend, glory
 This tool is CLI (Command Line Interface) based.
+
+``
+game puzzle kata atau menyusun kata acak menjadi kalimat yang benar, ada beberapa level dalam game ini, yaitu: noob, medium, hight, legend, glory Alat ini berbasis CLI (Command Line Interface).
+``
+
 
 <img src="https://github.com/HunxByts/PuzzleWord/blob/main/asset/PUZW.png"/>
 
